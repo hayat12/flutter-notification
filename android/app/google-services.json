@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818575271273",
+    "project_id": "caapp-fcad1",
+    "storage_bucket": "caapp-fcad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818575271273:android:ec6a03364f664b8f0289f8",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818575271273-bg2ncm28pmg82nq8ql0sgcv6otler7jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-515MxPqsAY16YPfDWAjyMy4NDbVdk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818575271273-bg2ncm28pmg82nq8ql0sgcv6otler7jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
